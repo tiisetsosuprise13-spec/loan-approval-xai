@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model file (large binary)
+loan_model.pkl
+
+# Output files
+*.png
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
